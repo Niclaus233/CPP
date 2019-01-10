@@ -15,8 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\me.cpp">
+    <ClCompile Include="Arr.c">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="test.cpp.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
