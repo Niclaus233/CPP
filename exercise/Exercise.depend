@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547460050 source:c:\users\zyf-1\source\codeblockscode\exercise\exe.cpp
+	<iostream>
+
+1547297009 source:c:\users\zyf-1\source\codeblockscode\exercise\xudawei.cpp
+	<iostream>
+	<map>
+
